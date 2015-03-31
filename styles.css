@@ -9,6 +9,7 @@
   -ms-box-sizing: border-box;
   box-sizing: border-box;
 }
+
 .row{
   width: 100%;
   display: flex;
@@ -55,3 +56,43 @@
   height: 300px;
   background-color: red;
 }
+
+div{
+  padding: 1%;
+}
+
+header{
+  padding:0% 4% 0% 1%;
+  text-transform:uppercase;
+  font-family:'Quicksand';
+}
+.feature{
+  text-align:center;
+}
+
+.featured{
+  margin:5% 0% 2% 2%;
+}
+
+.title{
+  text-transform:uppercase;
+  font-size:30px;
+  margin:1px;
+}
+
+.link{
+  font-size:10px;
+  margin:1px;
+  padding:0px;
+}
+.jane{
+  font-size:45px;
+  margin:1px;
+  text-align:right;
+}
+.ninja{
+  font-size:16px;
+  margin:1px;
+  text-align:right;
+}
+
